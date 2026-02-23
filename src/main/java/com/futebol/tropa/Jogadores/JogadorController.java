@@ -1,4 +1,4 @@
-package com.futebol.tropa;
+package com.futebol.tropa.Jogadores;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
